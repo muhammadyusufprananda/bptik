@@ -1,0 +1,187 @@
+body {
+    font-family: 'Source Sans Pro',
+    sans-serif;
+    background-color: #f4f4f4;
+    color: #f4f4f4;
+}
+
+p, a, ul li, ol li, i, b {
+    font-size: 14px;
+}
+
+h2 {
+    font-size: 45px;
+    font-weight: 600;
+}
+
+h3 {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.cTopbar {
+    background-color: #232020;
+    color: #f4f4f4;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.cTopbar a {
+    color: #f4f4f4;
+}
+
+.cTopbar-telephone {
+    border-right: 1px solid #f4f4f4;
+    padding: 0px 40px 0px 10px;
+    margin: 5px 0px;
+}
+
+.cTopbar-email {
+    padding: 0px 10px 0px 40px;
+    margin: 5px 0px;
+}
+
+.cTopbar-link {
+    padding: 0px 10px 0px 40px;
+    margin: 5px 0px;
+}
+
+.cNavbar {
+    background-color: #3a3535;
+    padding: 10px 100px;
+}
+
+.cNavbar-logo {
+    width: 60px;
+}
+
+.cNavbar .cNavbar-brand h1 {
+    font-weight: 600;
+    font-size: 28px;
+}
+
+.cNavbar .cNavbar-brand h2 {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.cNavbar .nav-item .nav-link {
+    font-weight: 600;
+    font-size: 13px;
+}
+
+.cJumbotron .jumbotron {
+    height: 480px;
+    background-image: url("../img/jumbotron-teamwork.jpg");
+    background-size: cover;
+    box-shadow: inset 0px -200px 500px 100px black;
+}
+
+.cJumbotron .jumbotron {
+    padding-top: 80px;
+    margin-bottom: 0;
+}
+
+.cJumbotron .jumbotron h1 {
+    font-size: 80px;
+    font-weight: 700;
+}
+
+.cJumbotron .jumbotron h2 {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.cJumbotron .jumbotron p {
+    font-size: 14px;
+}
+
+.cProfile {
+    background-color: #ff7315;
+}
+
+.cProfile img {
+    width: 300px;
+}
+
+.cNews {
+    color: #232020;
+}
+
+.cNews .card .card-title {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.cNews .card {
+    margin-bottom: 15px;
+}
+
+.cVisionMission {
+    background-color: #ff7315;
+}
+
+.cStructureOrganization {
+    color: #232020;
+}
+
+.cStructureOrganization img {
+    width: 1000px;
+    margin-bottom: 30px;
+}
+
+.cBottomWidget {
+    background-color: #3a3535;
+}
+
+.cBottomWidget img {
+    width: 150px;
+    margin-bottom: 30px;
+}
+
+.cBottomWidget-socialicon a {
+    font-size: 20px;
+    color: #f4f4f4;
+    margin: 5px 10px;
+}
+
+.cBottomWidget-lastestnews a,
+.cBottomWidget-menu a {
+    color: #f4f4f4;
+}
+
+.cBottomWidget-lastestnews hr,
+.cBottomWidget-menu hr {
+    border-color: #f4f4f4;
+}
+
+.cFooter {
+    background-color: #232020;
+}
+
+.cPostPage {
+    color: #232020;
+}
+
+.cDefaultPost img {
+    width: 800px;
+}
+
+.cSideBar a {
+    color: #232020;
+    font-size: 15px;    
+}
+
+.cPostPage .cDefaultPost form {
+    font-size: 14px;
+}
+
+.back-to-top {
+    background-color: #95B0B4;
+    border: none;
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    display: none;
+    z-index: 9999;
+}
